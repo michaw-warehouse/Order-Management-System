@@ -30,5 +30,5 @@ Certain product groups drive majority of sales.
 Sales performance can be analyzed dynamically using the date filter.
 
 ![Dashboard Screenshot](https://github.com/michaw-warehouse/Order-Management-System/blob/81fb3a21b8ba6f711ae62f933765cab1e5170acc/Screenshot%202026-03-01%20131125.png)
-![Dashboard Screenshot](https://github.com/michaw-warehouse/Order-Management-System/blob/978ed5630f6faea462fe5aeab17e815afb68ca26/Screenshot%202026-03-01%20131208.png)
 ![Dashboard Screenshot](https://github.com/michaw-warehouse/Order-Management-System/blob/9d6dc2ffb1cd78e1bb69300abb2d8b240e2e25f5/Screenshot%202026-03-01%20131226.png)
+![Dashboard Screenshot](https://github.com/michaw-warehouse/Order-Management-System/blob/978ed5630f6faea462fe5aeab17e815afb68ca26/Screenshot%202026-03-01%20131208.png)
