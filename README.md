@@ -1,13 +1,13 @@
 # Order-Management-System
 Power BI Product Sales Dashboard analyzing revenue by category, product, and date trends.
 
-# Project Overview
+## Project Overview
 
 This project presents a Product Sales Report built using Power BI.
 The dashboard analyzes total sales performance across product categories, sub-categories, and order dates.
 The goal of this analysis is to identify revenue trends, top-performing categories, and overall business performance.
 
-# Tools Used
+## Tools Used
 
 Power BI
 
@@ -19,7 +19,7 @@ Data Cleaning
 
 Sales Dataset
 
-# Key Features
+## Key Features
 
 Total Sales KPI Card (176M)
 
@@ -31,7 +31,7 @@ Interactive date slicer for time-based filtering
 
 Clean and structured report layout
 
-# Key Insights
+## Key Insights
 
 Technology and Office Supplies contribute significantly to total revenue.
 
