@@ -10,9 +10,13 @@ The goal of this analysis is to identify revenue trends, top-performing categori
 # Tools Used
 
 Power BI
+
 Data Modeling
+
 DAX Measures
+
 Data Cleaning
+
 Sales Dataset
 
 # Key Features
